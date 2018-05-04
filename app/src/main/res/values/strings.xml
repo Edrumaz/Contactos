@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_settings">Configuracion</string>
+    <string name="app_search">Buscar</string>
+    <string name="app_view">Cambiar</string>
+    <string name="app_add">Añadir</string>
+</resources>
